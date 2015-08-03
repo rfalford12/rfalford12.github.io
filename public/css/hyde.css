@@ -13,7 +13,6 @@
  * https://github.com/poole/hyde.
  */
 
-
 /*
  * Contents
  *
@@ -23,7 +22,6 @@
  * Reverse layout
  * Themes
  */
-
 
 /*
  * Global resets
@@ -247,4 +245,14 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Custom for Rebecca Alford's Personal Website */
+/* Theme Color from: https://color.adobe.com/NICE-ONE-color-theme-6626469/?showPublished=true */;
+.theme-base-0g .sidebar {
+  background-color: #30667F;
+}
+.theme-base-0g .content a, 
+.theme-base-0g .related-posts li a:hover {
+  color: #30667F;
 }
