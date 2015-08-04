@@ -6,12 +6,10 @@ education:
     school_name: Carnegie Mellon University
     city_state: Pittsburgh, PA
     major: B.S. Chemistry, Concentration - Computational Chemistry
-    special: Dean's List Fall 2013, Spring 2014, Spring 2015
   - date: May 2016
-    school_name: Johns Hopkins University
+    school_name: The Johns Hopkins University
     city_state: Baltimore, MD
-    major: Chemical and Biomolecular Engineering
-    special: Visiting Undergraduate
+    major: Visiting Undergraduate - Chemical and Biomolecular Engineering
 research-experience: 
   - date: 2013-Present
     position: Undergraduate Research Assistant
@@ -26,12 +24,12 @@ research-experience:
   - date: 2011-2013
     position: High School Research Assistant
     location: New York University
-    advisor: Richard Bonneau
-    topic: Prediction of deleterious protein variants using structure prediction in Rosetta3
+    advisor: Dr. Richard Bonneau
+    topic: Prediction of deleterious protein variants using structure prediction
   - date: 2009-2010
     position: High School Research Assistant
     location: Stony Brook University
-    advisor: Maruice Kernan
+    advisor: Dr. Maruice Kernan
     topic: Characterization of TRPM ion channel function in Drosophila
 publications: 
   - pre-authors: Baugh EH, Simmons-Elder R, Muller C,
@@ -41,11 +39,12 @@ publications:
     title: Structural modeling improves classification and interpretation of deleterious protein variation
     journal: Under Review at Nucleic Acids Research
   - pre-authors: 
-    bold-authors: Alford RF, 
-    post-authors: Koehler Leman J, Weitzner BD, Duran AM, Tiley DC, Elazar A, Gray JJ
+    bold-authors: Alford RF*, 
+    post-authors: Koehler Leman J*, Weitzner BD, Duran AM, Tiley DC, Elazar A, Gray JJ
     year: 2015
     title: An integrated framework advancing membrane protein modeling and design
-    journal: PLoS Comput. Biol. - In Press
+    journal: PLoS Comput. Biol. - In Press 
+    special: (*equal contribution authors)
   - pre-authors: Pope WH, Bowman CA, Russell DA, Jacobs-Sera D, Asai DJ, Cresawn SG, Jacobs WR,Hendrix RW, Lawrence JG, Hartfull GF,
     bold-authors: SEA-PHAGES
     post-authors: PHIRE
@@ -56,12 +55,14 @@ publications:
 honors-and-awards: 
   - award: NIH Undergraduate Research Fellowship
     date: 2013-Present
+  - award: Mellon College of Sciences - Ruth Welch Walker Scholarship
+    date: 2013-Present
+  - award: Dean's List High Honors
+    date: Fall 2014, Spring 2014, Spring 2015
   - award: Grace Hopper Celebration of Women in Computing - Scholar
     date: 2014
   - award: Selected Student Speaker - TEDxCMU
     date: 2013
-  - award: Ruth Welch Walker Scholarship
-    date: 2013-Present
   - award: Best in Biochemistry - Intel International Science and Engineering Fair
     date: 2012
   - award: National Semifinalist - Intel Science Talent Search
