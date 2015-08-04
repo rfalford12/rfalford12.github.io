@@ -1,0 +1,129 @@
+---
+layout: default
+---
+
+<h2> Education </h2>
+
+<div class="education">
+	<table>
+    {% for item in page.education %}
+    	<tr>
+		<td id="dates"> {{item.date}} </td>
+		<td id="information">
+			<b>{{item.school_name}}</b>, {{item.city_state}}<br>
+			{{item.major}}<br>
+			{{item.special}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+<h2> Research Experience </h2>
+
+<div class="research-experience">
+	<table>
+    {% for item in page.research-experience %}
+    	<tr>
+		<td id="dates"> {{item.date}} </td>
+		<td id="information">
+			<b>{{item.position}}</b>, {{item.location}}<br>
+			Advisors: {{item.advisor}}<br>
+			Topic: {{item.topic}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+<h2> Publications </h2>
+
+<div class="publications">
+	<table>
+    {% for item in page.publications %}
+    	<tr>
+		<td id="reference">
+			{{item.pre-authors}} <b>{{item.bold-authors}}</b> {{item.post-authors}} ({{item.year}}). "{{item.title}}" <em>{{item.journal}}</em> {{item.speical}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+<h2> Selected Honors and Awards </h2>
+
+<div class="honors-and-awards">
+	<table>
+    {% for item in page.honors-and-awards %}
+    	<tr>
+		<td id="dates"> {{item.date}} </td>
+		<td id="information">
+			{{item.award}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+<h2> Scientific Talks </h2>
+
+<div class="scientific-talks">
+	<table>
+    {% for item in page.scientific-talks %}
+    	<tr>
+		<td id="reference">
+			{{item.authors}} ({{item.date}}). "{{item.title}}" <em>{{item.meeting}}</em> - {{item.location}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+<h2> Scientific Posters </h2>
+
+<div class="scientific-posters">
+	<table>
+    {% for item in page.scientific-posters %}
+    	<tr>
+		<td id="reference">
+			{{item.authors}} ({{item.date}}). "{{item.title}}" <em>{{item.meeting}}</em> - {{item.location}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+<h2> Teaching Experience </h2> 
+
+<div class="teaching-experience">
+	<table>
+    {% for item in page.teaching-experience %}
+    	<tr>
+		<td id="dates"> {{item.date}} </td>
+		<td id="information">
+			<b>{{item.title}}</b>, {{item.location}}<br>
+			{{item.desc}}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+
+<h2> Activities </h2> 
+
+<div class="activites">
+	<table>
+    {% for item in page.activities %}
+    	<tr>
+		<td id="dates"> {{item.date}} </td>
+		<td id="information">
+			{{item.event}}
+		</td>
+	</tr>
+    {% endfor %}
+	</table>
+</div>
+
+
+
