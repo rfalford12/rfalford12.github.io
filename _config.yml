@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Rebecca Faye Alford
+title:            Rebecca Alford
 tagline:          
 description:      
 url:              rfalford12.github.io
 baseurl:          /
 
 author:
-  name:           'Rebecca Alford'
+  name:          'Rebecca Alford'
   url:            https://twitter.com/RebeccaAlford
 
 paginate:         5
@@ -26,5 +26,5 @@ github:
   repo:  
 
 twitter:
-name:           RebeccaAlford
-url:            https://twitter.com/RebeccaAlford         
+ name:           RebeccaAlford
+ url:            https://twitter.com/RebeccaAlford         

@@ -15,9 +15,9 @@ education:
 research-experience: 
   - date: 2013-Present
     position: Undergraduate Research Assistant
-    location: Gray Lab, Johns Hopkins
-    advisor: Jeffrey Gray
-    topic: Computational modeling of membrane proteins in Rosetta
+    location: The Johns Hopkins University
+    advisor: Dr. Jeffrey J Gray
+    topic: Computational modeling of membrane proteins
   - date: Spring 2014
     position: Software Engineering Intern
     location: Spatial4j
@@ -25,11 +25,12 @@ research-experience:
     topic: Modeling of geodesic shapes in object-oriented Spatial4j
   - date: 2011-2013
     position: High School Research Assistant
-    location: Bonneau Lab, New York University
+    location: New York University
     advisor: Richard Bonneau
     topic: Prediction of deleterious protein variants using structure prediction in Rosetta3
   - date: 2009-2010
     position: High School Research Assistant
+    location: Stony Brook University
     advisor: Maruice Kernan
     topic: Characterization of TRPM ion channel function in Drosophila
 publications: 
@@ -146,6 +147,8 @@ teaching-experience:
     location: Chapel Hill, NC
     date: June 2014
 activities: 
+  - event: Helped to organize first Rosetta REU Program
+    date: 2015
   - event: Judge - Plainview Old Beth Page Middle School Science Fair
     date: 2014, 2015
   - event: Organized Rosetta Team to attend Grace Hopper Conference
@@ -156,7 +159,25 @@ activities:
     date: 2013-2015
   - event: VisionWalk (Long Island and Pittsburgh)
     date: 2012, 2013
+  - event: Reviewed Genetics Chapter (Ch.6) for The Match
+    date: 2012
 
 ---
 
-Download PDF
+<!-- Update Skills Section Separately --> 
+### Molecular Modeling
+ * Structure prediction and design with Rosetta 3 (soluble and membrane protein modeling)
+ * Molecular dynamics simulations with NAMD and GROMACS
+ * Visualization with PyMOL, VMD
+ * Transmembrane helix and secondary structure prediction
+ * Implicit solvent and membrane models
+ * Energy function development
+
+### Software Development
+ * Languages (in order of proficiency) - C++, Python, R, Java, C, MATLAB, Shell Scripting, HTML/CSS, Perl
+ * Version Control - Git, Subversion
+ * Machine Learning - SVM and Logistic Regression
+ * Object-Oriented Development & Testing
+
+### Data Analysis
+ * Gplot, Mathematica, Matplotlib

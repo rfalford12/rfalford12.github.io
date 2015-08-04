@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+</div>
+
+<div class="contact-info">
+    {% for item in page.contact-info %}
+    	<b>{{item.name}}</b><br>
+    	{{item.address1}}<br> 
+    	{{item.address2}}<br> 
+    	<b>Email:</b> <a href={{item.email}}>{{item.email}}</a>
+    {% endfor %}
+	</table>
+</div>
+
