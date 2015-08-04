@@ -15,9 +15,14 @@ title: Projects
 * Publication in PLoS Computational Biology (2015)
 
 ###  Prediction of deleterious mutants using Rosetta
-
-• Development of an implicit membrane model able to recapitulate physical and chemical properties of lipid bilayers <br> 
-• Calibration of solvation and environemnt scores based on recent hydrophobicity scales
+* High-resolution refinement of membrane proteins with Rosetta3
+* Trained linear and multi-variate SVM models for mutant classification
 
 ## Research Interests
+* Modeling the energy landscape of membrane proteins
+* Computational methods development for macromolecular prediction and design
+* Exploring connections between protein structure, function, and inherited disease
+* Biomolecular simulations using large-scale computing resources
+* Engineering object-oriented and user-friendly scientific tools
+* Integrating experimental data into computer simulation
 

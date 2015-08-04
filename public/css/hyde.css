@@ -256,3 +256,21 @@ a.sidebar-nav-item:focus {
 .theme-base-07 .related-posts li a:hover {
   color: #265266;
 }
+
+/* Custom Formatting for CV and References as part of Personal Website */
+table { border-style: none;
+        text-align: left }
+
+td { padding: 1em 1em 1em 0em;
+     text-align: left;
+     vertical-align: top }
+
+#dates { width: 115px;
+     padding-right: 0em;
+     padding-left: 1em; }
+
+#information { 
+  width: 550px;
+  padding-bottom: 1em }
+
+#reference { padding-bottom: 1em }
