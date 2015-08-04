@@ -257,17 +257,25 @@ a.sidebar-nav-item:focus {
   color: #265266;
 }
 
-/* Custom Formatting for CV and References as part of Personal Website */
-table { border-style: none;
-        text-align: left }
-
+/* Custom Table formatting for CV Section */
 td { padding: 1em 1em 1em 0em;
      text-align: left;
-     vertical-align: top }
+     vertical-align: top; 
+     border: none !important;
+     border-style: none; 
+     background: transparent;}
 
-#dates { width: 115px;
+table { border: none !important;
+        border-style: none;
+        text-align: left 
+        background: transparent;}
+
+#dates { width: 200px;
      padding-right: 0em;
      padding-left: 1em; }
+
+#info { 
+  padding-bottom: 1em }
 
 #information { 
   width: 550px;
