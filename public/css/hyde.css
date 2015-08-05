@@ -254,7 +254,7 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-07 .content a, 
 .theme-base-07 .related-posts li a:hover {
-  color: #265266;
+  color: #5BA8CC;
 }
 
 /* Custom Table formatting for CV Section */
@@ -278,7 +278,7 @@ table { border: none !important;
   padding-bottom: 1em }
 
 #information { 
-  width: 550px;
+  width: 660px;
   padding-bottom: 1em }
 
 #reference { padding-bottom: 1em }
