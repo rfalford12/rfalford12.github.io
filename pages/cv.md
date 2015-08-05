@@ -58,7 +58,7 @@ honors-and-awards:
   - award: Mellon College of Sciences - Ruth Welch Walker Scholarship
     date: 2013-Present
   - award: Dean's List High Honors
-    date: Fall 2014, Spring 2014, Spring 2015
+    date: 2014, Spring 2015
   - award: Grace Hopper Celebration of Women in Computing - Scholar
     date: 2014
   - award: Selected Student Speaker - TEDxCMU
@@ -160,8 +160,6 @@ activities:
     date: 2013-2015
   - event: VisionWalk (Long Island and Pittsburgh)
     date: 2012, 2013
-  - event: Reviewed Genetics Chapter (Ch.6) for The Match
-    date: 2012
 
 ---
 
@@ -179,6 +177,3 @@ activities:
  * Version Control - Git, Subversion
  * Machine Learning - SVM and Logistic Regression
  * Object-Oriented Development & Testing
-
-### Data Analysis
- * Gplot, Mathematica, Matplotlib
