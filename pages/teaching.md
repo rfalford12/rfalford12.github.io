@@ -5,7 +5,7 @@ title: Teaching and Leadership
 
 ## First Rosetta REU Program
 
-This year, I assistend with organization of a new <a href="https://www.rosettacommons.org/about/intern"><b>Rosetta REU Program</b></a>. The Rosetta REU is a pilot for a new REU model model where students conduct research at different sites and use online collaboration tools to stay connected. I assisted with program recruitment at Grace Hopper, admissions, and organizing materials for a week-long course introducing students to development in Rosetta. 
+This year, I assisted with organization of a new <a href="https://www.rosettacommons.org/about/intern"><b>Rosetta REU Program</b></a>. The Rosetta REU is a pilot for a new REU model model where students conduct research at different sites and use online collaboration tools to stay connected. I assisted with program recruitment at Grace Hopper, admissions, and organizing materials for a week-long course introducing students to development in Rosetta. 
 
 The program was recently highlighted <a "href=http://hub.jhu.edu/2015/07/28/rosetta-software-computational-biology"><b>here</b></a>
 
