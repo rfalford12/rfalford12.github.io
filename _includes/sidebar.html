@@ -22,15 +22,13 @@
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
-          {% if node.layout == "cv" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
           {% if node.layout == "contact" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item" href="{{ RFAlford_CV.pdf }}">Curriculum Vitae</a>
       <a class="sidebar-nav-item" href="{{ site.twitter.url }}">@{{ site.twitter.name }}</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
