@@ -7,7 +7,7 @@ title: Teaching
 
 This year, the Rosetta community initiated a new research experience for undergraduates (REU), enabling students to conduct structural biology research in any of the 40+ Rosetta labs and collaborate removely. I assisted with recruiting students at the Grace Hopper Conference, organization of the program, admissions, and was a co-instructor at a week-long workshop introducing students to the Rosetta code. 
 
-<a href="https://www.rosettacommons.org/about/intern"><b>The program</b></a>was recently highlighted <a "href=http://hub.jhu.edu/2015/07/28/rosetta-software-computational-biology"><b>here</b></a>
+<a href="https://www.rosettacommons.org/about/intern"><b>The program </b></a>was recently highlighted <a "href=http://hub.jhu.edu/2015/07/28/rosetta-software-computational-biology"><b>here</b></a>
 
 ## ThinkTech - A computational thinking class for middle school girls
 
