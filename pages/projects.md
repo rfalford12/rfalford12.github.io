@@ -10,15 +10,15 @@ title: Projects
 <img src="{{ site.baseurl }}public/implicit_membrane.png"
 style="float: right" alt="RebeccaAlford" width="25%"/>
 
-* Development and scientific testing of a new energy function to improve treatment of the membrane during all-atom modeling
-* Model to include support for various lipid compositions, varying both acyl chain length and headgroup type
+* Building a new implicit membrane model able to capture differentmembrane lipid compositions
+* Development of new energy terms to support updated membrane model
 
 ### Design and Implementation of RosettaMP: A membrane protein modeling framework in Rosetta
 
 <img src="{{ site.baseurl }}public/framework_summary.png"
 style="float: right" alt="RebeccaAlford" width="50%"/>
 
-* Developed a modular framework for sampling and scoring within the membrane environment in Rosetta3
+* Developed framework for membrane protein modeling in Rosetta
 * Created and tested five proof-of-concepts for visualization, refinement, docking, symmetric docking, prediction of free energy changes upon mutation
 * Publication in PLoS Computational Biology (2015)
 
@@ -27,8 +27,9 @@ style="float: right" alt="RebeccaAlford" width="50%"/>
 <img src="{{ site.baseurl }}public/structure-function-prediction.png"
 style="float: right" alt="RebeccaAlford" width="30%"/>
 
-* High-resolution refinement of membrane proteins with Rosetta3
-* Trained linear and multi-variate SVM models for mutant classification
+ * Developed a structure-based method for predicting mutation effects on membrane protein function
+ * Applied machine learning to improve prediction accuracy of this method
+ * Participated in expanding this method to predicting deleterious variants in soluble proteins
 
 ## Research Interests
 * Modeling the energy landscape of membrane proteins
