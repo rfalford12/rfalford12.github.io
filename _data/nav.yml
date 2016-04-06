@@ -1,0 +1,15 @@
+- name: Home
+  path: index.html
+  section_id: home
+- name: Research
+  path: research.html
+  section_id: research
+- name: CV
+  path: cv.html
+  section_id: cv
+- name: Media
+  path: media.html
+  section_id: media
+- name: Contact
+  path: contact.html
+  section_id: contact
