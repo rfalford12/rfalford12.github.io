@@ -7,6 +7,11 @@
 - name: CV
   path: cv.html
   section_id: cv
+  children: 
+  - name: Short Resume
+    path: AlfordRebecca_ShortResume.pdf
+  - name: Long CV
+    path: AlfordRebecca_LongCV.pdf
 - name: Media
   path: media.html
   section_id: media
