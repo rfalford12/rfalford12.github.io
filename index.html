@@ -1,40 +1,20 @@
 ---
 layout: default
-title: Rebecca Faye Alford &gt; home
-section_id: home
 ---
 
-<div class='testimonials full light centered-text bg-2'>
-  <div class='row'>
-    <div class='special-title'>
-      <h2 class='light'></h2>
-    </div>
-    <div class='two spacing'></div>
-  </div>
-  <div class='row'>
-  <div class="two spacing"></div>
-  <div class='two spacing'></div>
-  </div>
+<div class="home">
+
+  <h1>Posts</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>
-
-<div class='full white'>
-  <div class='row'>
-    <div class='special-title centered-text'>
-      <h2>Welcome</h2>
-      <div class="spacing"></div>
-      <p class='shortline'></p>
-    </div>
-  </div>
-  <div class="two spacing"></div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='special-title'>
-      <p>
-      I am a senior studying computational chemistry at Carnegie Mellon and an undergraduate researcher in <a href="http://graylab.jhu.edu">Jeff Gray's Lab at Johns Hopkins</a>. My research focuses on developing computational tools for modeling membrane proteins and understanding their biological roles in disease. Aside from my research, I am passionate about increasing diversity in computational fields, especially by women and students with disabilities. In the Spring of 2016, I will graduate from Carnegie Mellon and pursue my Ph.D. in Chemical and Biomolecular Engineering at Johns Hopkins with the ultimate goal of engineering computational tools to investigate diseases and develop drugs to treat them. 
-      </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-

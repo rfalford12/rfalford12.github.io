@@ -1,6 +1,42 @@
-name: Rebecca Alford
-markdown: redcarpet
-pygments: true
-excerpt_separator: <!--more-->
-paginate: 3
-paginate_path: "blog/page:num"
+url: https://rfalford12.github.io
+baseurl: 
+
+# Site settings
+title: Rebecca Faye Alford
+email: rfalford12@gmail.com
+description: "Personal Website for Rebecca Alford - Undergraudate in Computational Chemistry at Carnegie Mellon and student researcher in Jeff Gray's Lab at Johns Hopkins. Programmer, Aspiring Scientist, Innovator, Explorer"
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/RebeccaAlford
+  - title: linkedin
+    url: https://www.linkedin.com/in/rebecca-alford-71184156
+  - title: google-plus
+    url: https://scholar.google.com/citations?user=A8FWr6oAAAAJ&hl=en&oi=ao
+  - title: github
+    url: https://github.com/rfalford12
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
