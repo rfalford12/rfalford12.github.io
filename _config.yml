@@ -25,12 +25,10 @@ social:
     url: https://twitter.com/RebeccaAlford
   - title: linkedin
     url: https://www.linkedin.com/in/rebecca-alford-71184156
-  - title: google-plus
-    url: https://scholar.google.com/citations?user=A8FWr6oAAAAJ&hl=en&oi=ao
   - title: github
     url: https://github.com/rfalford12
-  - title: github
-    url: http://github.com/jekyll
+  - title: google
+    url: https://scholar.google.com/citations?user=A8FWr6oAAAAJ&hl=en&oi=ao
 
 # Postal address (add as many lines as necessary)
 address:
